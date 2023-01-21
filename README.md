@@ -13,6 +13,4 @@ IT21013300
 
 Skills: Mongoose / REACT / JS / HTML / CSS/SQL/JAVA/C/C++/Angular/Node/C++
 
-[![Nowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOTTAGENVH)](https://github.com/KOTTAGENVH/github-readme-stats)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOTTAGENVH)](https://github.com/anuraghazra/github-readme-stats)
