@@ -2,7 +2,7 @@ IT21013300
 ### Hi there 👋, Nowen Kottage
 #### Development
 
-
+![](https://komarev.com/ghpvc/?username=KOTTAGENVH&style=for-the-badge-square)
 👋 Hi, I’m @NOWEN-KOTTAGE
 
 👀 I’m interested in C,C++,HTML,CSS,PHP,SQL,JAVA & PYTHON
