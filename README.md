@@ -16,4 +16,4 @@ Skills: Mongoose / REACT / JS / HTML / CSS/SQL/JAVA/C/C++/Angular/Node/C++
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KOTAGENVH&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOTTAGENVH)](https://github.com/anuraghazra/github-readme-stats)
+[![Nowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOTTAGENVH)](https://github.com/anuraghazra/github-readme-stats)
