@@ -12,6 +12,8 @@ IT21013300
 
 📫 Reach me on LINKEDLN https://www.linkedin.com/in/nowen-kottage-aa9571211
 
+Portfolio: https://my-portfolio-gga3-kottagenvh.vercel.app
+
 Skills: Mongoose / REACT / JS / HTML / CSS/SQL/JAVA/C/C++/Angular/Node/C++
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KOTTAGENVH&theme=dark)](https://git.io/streak-stats)
