@@ -8,7 +8,7 @@ IT21013300
 
 👀 I’m interested in Swift, Java, Java Script and Python
 
-🌱 I’m currently learning JAVA & PYTHON
+🌱 I’m currently learning Swift & Python
 
 📫 Reach me on LINKEDLN https://www.linkedin.com/in/nowen-kottage-aa9571211
 
