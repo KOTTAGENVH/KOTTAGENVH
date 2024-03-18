@@ -6,15 +6,13 @@ IT21013300
 
 👋 Hi, I’m @NOWEN-KOTTAGE
 
-👀 I’m interested in C,C++,HTML,CSS,PHP,SQL,JAVA & PYTHON
+👀 I’m interested in Swift, Java, Java Script and Python
 
 🌱 I’m currently learning JAVA & PYTHON
 
 📫 Reach me on LINKEDLN https://www.linkedin.com/in/nowen-kottage-aa9571211
 
 Portfolio: https://my-portfolio-gga3-kottagenvh.vercel.app
-
-Skills: Mongoose / REACT / JS / HTML / CSS/SQL/JAVA/C/C++/Angular/Node/C++
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=false)
 
