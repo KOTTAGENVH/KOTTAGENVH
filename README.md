@@ -16,6 +16,6 @@ Portfolio: https://my-portfolio-gga3-kottagenvh.vercel.app
 
 Skills: Mongoose / REACT / JS / HTML / CSS/SQL/JAVA/C/C++/Angular/Node/C++
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=true)
 
 [![Nowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOTTAGENVH)](https://github.com/anuraghazra/github-readme-stats)
