@@ -12,7 +12,7 @@ IT21013300
 
 📫 Reach me on LINKEDLN https://www.linkedin.com/in/nowen-kottage-aa9571211
 
-Portfolio: https://my-portfolio-gga3-kottagenvh.vercel.app
+Portfolio: https://my-portfolio-gga3.vercel.app
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=false)
 
