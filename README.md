@@ -4,9 +4,7 @@ IT21013300
 
 ![](https://komarev.com/ghpvc/?username=KOTTAGENVH&style=for-the-badge-square)
 
-👋 Hi, I’m @NOWEN-KOTTAGE
-
-👀 I’m interested in Swift, Java, Java Script and Python
+👋 Hi, I’m @NOWEN-KOTTAGE 
 
 🌱 I’m currently learning Swift & Python
 
