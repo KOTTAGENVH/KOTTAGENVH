@@ -1,6 +1,6 @@
 IT21013300
 ### Hi there 👋, Nowen Kottage
-#### Development
+#### Kaizen
 
 ![](https://komarev.com/ghpvc/?username=KOTTAGENVH&style=for-the-badge-square)
 
