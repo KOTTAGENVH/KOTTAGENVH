@@ -1,4 +1,4 @@
-### Hi there 👋, Nowen Kottage
+### Hi there 👋,
 #### Kaizen
 
 ![](https://komarev.com/ghpvc/?username=KOTTAGENVH&style=for-the-badge-square)
