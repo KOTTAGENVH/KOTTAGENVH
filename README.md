@@ -1,4 +1,3 @@
-IT21013300
 ### Hi there 👋, Nowen Kottage
 #### Kaizen
 
