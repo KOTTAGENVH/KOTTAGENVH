@@ -1,5 +1,5 @@
 ### Hi there 👋,
-#### Kaizen
+#### カイゼン 😎
 
 ![](https://komarev.com/ghpvc/?username=KOTTAGENVH&style=for-the-badge-square)
 
