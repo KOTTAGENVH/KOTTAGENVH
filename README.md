@@ -5,11 +5,7 @@
 
 👋 Hi, I’m @NOWEN-KOTTAGE 
 
-🌱 I’m currently learning Swift & Python
-
-📫 Reach me on LINKEDLN https://www.linkedin.com/in/nowen-kottage-aa9571211
-
-Portfolio: https://nowen-kottage.vercel.app
+🌱 I’m currently working on Swift & Python
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=false)
 
