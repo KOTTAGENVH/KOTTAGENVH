@@ -7,6 +7,8 @@
 
 🌱 I’m currently working on Swift & Python
 
+![](https://github-profile-trophy.vercel.app/?username=KOTTAGENVH)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=false)
 
 [![Nowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOTTAGENVH)](https://github.com/anuraghazra/github-readme-stats)
