@@ -3,13 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=KOTTAGENVH&style=for-the-badge-square)
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/KOTTAGENVH.svg)](https://user-badge.committers.top/sri_lanka_private/KOTTAGENVH)
+
 👋 Hi, I’m @NOWEN-KOTTAGE 
 
 🌱 I’m currently working on Swift & Python
 
 ![](https://github-profile-trophy.vercel.app/?username=KOTTAGENVH)
-
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/KOTTAGENVH.svg)](https://user-badge.committers.top/sri_lanka_private/KOTTAGENVH)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=false)
 
