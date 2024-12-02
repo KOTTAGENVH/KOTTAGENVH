@@ -11,7 +11,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=KOTTAGENVH)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH)
 
 [![Nowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOTTAGENVH)](https://github.com/anuraghazra/github-readme-stats)
 
