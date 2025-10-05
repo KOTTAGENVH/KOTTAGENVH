@@ -5,9 +5,6 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/KOTTAGENVH.svg)](https://user-badge.committers.top/sri_lanka_private/KOTTAGENVH)
 
-👋 Hey there!
-Thanks for stopping by. Always curious about exciting projects and collaborations let’s connect and build something amazing together! 🚀
-
 ![](https://github-profile-trophy.vercel.app/?username=KOTTAGENVH)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=false)
