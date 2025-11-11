@@ -9,11 +9,6 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
-![](https://github-profile-trophy.vercel.app/?username=KOTTAGENVH&theme=onedark)
-
----
-
 ### 📊 Stats & Analytics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOTTAGENVH&hide_progress=false)
